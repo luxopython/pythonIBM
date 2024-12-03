@@ -1,4 +1,4 @@
-# Declaración de la clase
+# Declaración de la clase coche
 class Coche():
 # Declaración de atributos
     largo = 250
